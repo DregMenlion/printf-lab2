@@ -1,0 +1,11 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="alltask/alltask.vcxproj" Id="505f4d92-6839-46c7-8030-f7aa5398bfd0" />
+  <Project Path="DomZadanie/DomZadanie.vcxproj" Id="ef73726d-99d6-46f0-a5df-b44ca8fee534" />
+  <Project Path="printf/printf.vcxproj" Id="82b3d39e-8c74-4a65-96c9-2d005404b1b5" />
+  <Project Path="zadanie2/zadanie2.vcxproj" Id="8ee1db89-d426-4fc1-931e-b29f0298b5a2" />
+  <Project Path="zadanie3/zadanie3.vcxproj" Id="00e6d6d3-d182-41ea-8829-6e9acf8fce2d" />
+</Solution>
